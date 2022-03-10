@@ -13,6 +13,10 @@ If you wish to edit houses in the editor, you may use the "Hide Object" module o
 ## Installation
 Installation is simple. Extract the .zip to your mission folder and merge the description.ext into your one. Ta-da, the script now takes effect on your mission. 
 
+## Known Issues 
+Unfortunately, something that cannot really be accounted for is that some buildings will have the terrain clipping into them. 
+It is not at all game breaking and serves mostly as a visual annoyance, but it is still a shame that it is there.  
+
 ## Credits 
 I would like to give big thanks to:
 *Diwako*, for the scripting help and general advice and *Simkas*, for helping me to get started and wrapping my head around things
