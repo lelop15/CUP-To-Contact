@@ -22,4 +22,4 @@ I would like to give big thanks to:
 *Diwako*, for the scripting help and general advice and *Simkas*, for helping me to get started and wrapping my head around things
 
 ## Links
-[BI forum thread](youtube.com)
+[BI forum thread](https://forums.bohemia.net/forums/topic/237849-cup-to-contact-cup-buildings-with-interiors/)
