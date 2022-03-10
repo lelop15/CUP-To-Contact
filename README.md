@@ -1,4 +1,5 @@
-# CUP-To-Contact A simple mission script that replaces old A2-era buildings from CUP with ones that have interiors from Contact.  
+# CUP-To-Contact   
+A simple mission script that replaces old A2-era buildings from CUP with ones that have interiors from Contact.
 It accounts for the offset between models as to prevent horrendous clipping and misplaced objects. 
 
 ![Logo](https://cdn.discordapp.com/attachments/724070817419362327/951249388271964160/CTC_LOGO.PNG)
@@ -14,8 +15,7 @@ Installation is simple. Extract the .zip to your mission folder and merge the de
 
 ## Credits 
 I would like to give big thanks to:
-*Diwako*, for the scripting help and general advice
-*Simkas*, for helping me to get started and wrapping my head around things
+*Diwako*, for the scripting help and general advice and *Simkas*, for helping me to get started and wrapping my head around things
 
 ## Links
 [BI forum thread](youtube.com)
